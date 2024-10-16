@@ -1,0 +1,5 @@
+.ipynb_checkpoints/ 
+*.ipynb 
+*.txt 
+data_kaduna_plant*.csv 
+untitled.txt 
